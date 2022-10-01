@@ -1,0 +1,17 @@
+видео курсы по C# от Microsoft: 
+https://mva.microsoft.com/ru/training-courses/-c-8622
+https://mva.microsoft.com/ru/training-courses/-c-1-8669
+https://mva.microsoft.com/ru/training-courses/--8590
+кроме этих ссылок можно посмотреть сам сайт академии: mva.microsoft.com  может еще чего добавили
+
+
+От СКБ-Контур:
+https://ulearn.me/  - очень неплохой сайт, видеолекции с возможностью тестироваться, тут же выполнять практические задачи.
+
+
+теория по C#:
+https://metanit.com/sharp/tutorial/
+https://professorweb.ru/my/csharp/charp_theory/level1/infocsharp.php
++ если материал кажется слишком сложным, можно загуглить что-нибудь попроще вроде "C# для школьников: Учебное пособие / М. Дрейер" 
+
+
