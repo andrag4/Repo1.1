@@ -6,7 +6,21 @@ namespace Repo1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int a = 0;
+            string str;
+            Console.WriteLine(" Введите год");
+            str = Console.ReadLine();
+            a = Convert.ToInt32(str);
+            if (a % 4 == 0)
+            {
+                Console.WriteLine(" Високосный год");
+            }
+            else
+            {
+                Console.WriteLine(" Не високосный год");
+            }
+            
+
         }
     }
 }
