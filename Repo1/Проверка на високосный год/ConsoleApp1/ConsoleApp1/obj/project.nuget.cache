@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gm3u+3w38LKkmxphHGXffjP/bqATENuqEllpwF1HRL2n4GWrZbIM9uOAjmOjMgcedBBlkFis2P7hsQ3bApPwjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PIBO0121004\\Desktop\\Repo2\\Repo1\\Проверка на високосный год\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PIBO0121004\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
